@@ -1021,7 +1021,7 @@ pre .javascript .function {
   position: relative;
   box-sizing: border-box;
   width: 80%;
-  max-width: 1000px;
+  max-width: 920px;
   height: 100%;
 }
 @media (max-width: 780px) {
@@ -1345,7 +1345,7 @@ pre .javascript .function {
   position: relative;
   height: 100%;
   width: 80%;
-  max-width: 1000px;
+  max-width: 920px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -1353,7 +1353,7 @@ pre .javascript .function {
   z-index: 1005;
 }
 .header-wrapper .header-content.has-first-screen {
-  max-width: 1200px;
+  max-width: 1104px;
 }
 @media (max-width: 780px) {
   .header-wrapper .header-content {
@@ -1376,6 +1376,27 @@ pre .javascript .function {
 .header-shrink .header-wrapper .header-content .left {
   transform: scale(0.72);
   transform-origin: left;
+}
+.header-wrapper .header-content .left .logo-image {
+  width: 46px;
+  height: 46px;
+  margin-right: 8px;
+}
+@media (max-width: 780px) {
+  .header-wrapper .header-content .left .logo-image {
+    width: 41.4px;
+    height: 41.4px;
+  }
+}
+@media (max-width: 500px) {
+  .header-wrapper .header-content .left .logo-image {
+    width: 36.800000000000004px;
+    height: 36.800000000000004px;
+  }
+}
+.header-wrapper .header-content .left .logo-image img {
+  border-radius: 6px;
+  width: 100%;
 }
 .header-wrapper .header-content .left .logo-title {
   font-size: 2rem;
