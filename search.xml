@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>Welcome to<br>[ ] Mercury</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Venus</li>
+<li><input checked="" disabled="" type="checkbox"> Earth (Orbit/Moon)</li>
+<li><input checked="" disabled="" type="checkbox"> Mars</li>
+<li><input disabled="" type="checkbox"> Jupiter</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>千呼万唤始出来，Hexo 主题 ILS 正式发布</title>
     <url>/hi/</url>
     <content><![CDATA[<p>hi xuejuan</p>
@@ -11,11 +23,5 @@
       <tags>
         <tag>Hexo</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/hello-world/</url>
-    <content><![CDATA[<p>Welcome to </p>
-]]></content>
   </entry>
 </search>

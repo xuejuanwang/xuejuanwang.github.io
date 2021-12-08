@@ -6,7 +6,7 @@
   <link href="http://xuejuanwang.github.io/atom.xml" rel="self"/>
   
   <link href="http://xuejuanwang.github.io/"/>
-  <updated>2021-10-29T07:20:18.299Z</updated>
+  <updated>2021-12-08T08:27:44.481Z</updated>
   <id>http://xuejuanwang.github.io/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://xuejuanwang.github.io/hello-world/"/>
     <id>http://xuejuanwang.github.io/hello-world/</id>
     <published>2021-10-29T07:20:18.299Z</published>
-    <updated>2021-10-29T07:20:18.299Z</updated>
+    <updated>2021-12-08T08:27:44.481Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to </p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to<br>[ ] Mercury</p><ul><li><input checked="" disabled="" type="checkbox"> Venus</li><li><input checked="" disabled="" type="checkbox"> Earth (Orbit/Moon)</li><li><input checked="" disabled="" type="checkbox"> Mars</li><li><input disabled="" type="checkbox"> Jupiter</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;Welcome to&lt;br&gt;[ ] Mercury&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Venus&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;</summary>
       
     
     
